@@ -42,4 +42,4 @@ pre = clf.predict(test_data)
 
 # Correct rate
 ac_score = metrics.accuracy_score(test_label, pre)
-print("정답률 = ", ac_score)
+print(" = ", ac_score)
