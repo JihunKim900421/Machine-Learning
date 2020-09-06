@@ -1,7 +1,11 @@
 # Machine-Learning
-Machine Learning Model
+Simple Machine Learning Model
 
-Simple SVM Model written in Python.
+Simple Model written in Python.
+
+------------------------------------------------------
+
+
 
 Module used
 1. sklearn.svm
