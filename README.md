@@ -30,7 +30,11 @@ Module used
 6. PIL.Image
 7. matplotlib.pyplot
 
-Attached 4 'ubyte file' dataset which is 'mnist binary file'. If you want more info check the 'http://yann.lecun.com/exdb/mnist/'.
+If you want to get 'dataset' and get more info, Go to the 'http://yann.lecun.com/exdb/mnist/' and download below
+train-images-idx3-ubyte.gz
+train-labels-idx1-ubyte.gz
+t10k-images-idx3-ubyte.gz
+t10k-labels-idx1-ubyte.gz
 
 ------------------------------------------------------
 
